@@ -12,6 +12,7 @@ Membuat program kasir self-service :
 5. Proses cek order dan menghitung total belanja sesuai dengan diskon yang telah diset
 
 Flowchart
+
 ![tugas-Copy of Page-1](https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/7e5c657c-98d3-444e-9c47-7e3f121c4d5d)
 
 
