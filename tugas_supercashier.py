@@ -308,19 +308,6 @@ while True:
     customer akan memilih kembali ke menu utama atau tidak. Jika memilih tidak maka program berhenti.
     """
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
 # In[ ]:
 
 
