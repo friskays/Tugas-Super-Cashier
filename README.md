@@ -23,4 +23,10 @@ Terlampir pada file .ipynb dan .py
 <img width="383" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/c5bda1f6-f27b-4f6d-9f4d-d141607a3b21">
 
 ## Test Case
+Test 1 : 
+Menambahkan 2 item baru 
+- Ayam Goreng 2 item dengan harga per itemnya 20.000
+- Pasta Gigi 3 item dengan harga per itemnya 15.000
+
+<img width="307" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/8db288c4-bc57-4da5-8a37-e1707e675d60">
 
