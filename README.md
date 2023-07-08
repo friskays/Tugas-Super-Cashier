@@ -17,7 +17,7 @@ Flowchart
 
 
 ## Membuat Code berdasarkan Requirements
-Terlampir pada file .ipynb dan .py
+Terlampir pada file .py
 
 ## Mengubah code menjadi scripts
 <img width="383" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/c5bda1f6-f27b-4f6d-9f4d-d141607a3b21">
