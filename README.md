@@ -23,10 +23,24 @@ Terlampir pada file .ipynb dan .py
 <img width="383" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/c5bda1f6-f27b-4f6d-9f4d-d141607a3b21">
 
 ## Test Case
-Test 1 : 
+**Test 1 :** 
 Menambahkan 2 item baru 
 - Ayam Goreng 2 item dengan harga per itemnya 20.000
 - Pasta Gigi 3 item dengan harga per itemnya 15.000
 
 <img width="307" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/8db288c4-bc57-4da5-8a37-e1707e675d60">
 
+**Test 2 :**
+Menghapus salah satu item yang dipesan/ delete item untuk item Pasta Gigi
+
+<img width="295" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/028d78af-14bf-4775-ab92-13955ecf3e78">
+
+**Test 3 :**
+Melakukan reset transaksi atau menghapus seluruh item yang telah diinputkan 
+
+<img width="328" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/306b7a62-9393-4f10-8aa6-76b831cf240e">
+
+**Test 4 :**
+Menghitung total belanja yang harus dibayarkan
+
+<img width="251" alt="image" src="https://github.com/friskays/Tugas-Super-Cashier/assets/114457985/100091c8-2b58-45ce-a812-72be0aafb6e4">
